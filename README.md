@@ -1,1 +1,1 @@
-[site](https://skamilov.github.io){:target="_blank"}
+[site](https://skamilov.github.io)
