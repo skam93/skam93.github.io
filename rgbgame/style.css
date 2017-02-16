@@ -1,0 +1,28 @@
+body{
+  background-color: #232323;
+  margin: 0;
+}
+.container{
+  width: 400px;
+  margin: 20px auto;
+}
+button{
+  background: none;
+  border: none;
+  outline: none;
+  margin: 0;
+  font-size: 217px;
+  text-align: center;
+  background-color: red;
+  margin-left: 20%;
+  transition: all 0.8s;
+}
+.square{
+  margin: 1.66%;
+  text-align: center;
+  width: 30%;
+  float: left;
+  padding-bottom: 25%;
+  background-color: purple;
+  transition: all 0.8s;
+}
